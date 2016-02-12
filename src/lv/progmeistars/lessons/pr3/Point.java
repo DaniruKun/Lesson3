@@ -1,7 +1,7 @@
 package lv.progmeistars.lessons.pr3;
 
-public class Line extends Figure{
-	public Line(int length, int width, int height){
+public class Point extends Figure {
+	public Point(int height, int length, int width) {
 		setLength(length);
 		setWidth(width);
 		setHeight(height);

@@ -23,7 +23,7 @@ public class Figure {
 		this.height = height;
 	}
 	public boolean fits(Figure other){
-		//TODO:implement Appropriate algorithm
+		//this
 		return false;
 	}
 }
