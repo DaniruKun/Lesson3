@@ -23,7 +23,7 @@ public class Figure {
 		this.height = height;
 	}
 	public boolean fits(Figure other){
-		//this
+		
 		return false;
 	}
 }
